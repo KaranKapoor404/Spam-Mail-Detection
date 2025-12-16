@@ -27,7 +27,7 @@ in this project, we:
 ## 🛠️ Technologies used
 
 - **python 🐍**
-- **jupyter notebook 📓**
+- **Visual Studio Code 📓**
 - **pandas** – data handling
 - **numpy** – numerical operations
 - **scikit-learn** – machine learning models
