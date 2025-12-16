@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 project overview
+## 🧠 Project overview
 
 spam emails are unwanted, often harmful messages sent in bulk. detecting them automatically helps protect users from phishing, scams, and unnecessary clutter.
 
@@ -14,7 +14,7 @@ in this project, we:
 
 ---
 
-## 🚀 features
+## 🚀 Features
 
 - text preprocessing (lowercasing, removing punctuation, stopwords, etc.)
 - feature extraction using **bag of words / tf-idf**
@@ -24,7 +24,7 @@ in this project, we:
 
 ---
 
-## 🛠️ technologies used
+## 🛠️ Technologies used
 
 - **python 🐍**
 - **jupyter notebook 📓**
@@ -33,7 +33,5 @@ in this project, we:
 - **scikit-learn** – machine learning models
 - **nltk / sklearn text tools** – nlp processing
 
----
 
-## 📂 project structure
 
